@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103984643955",
+    "firebase_url": "https://livemart-340a4-default-rtdb.firebaseio.com",
+    "project_id": "livemart-340a4",
+    "storage_bucket": "livemart-340a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103984643955:android:883a4f86934362ef7c8f06",
+        "android_client_info": {
+          "package_name": "com.example.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103984643955-hgf45q18i44oapm10db63ii7f4rjes8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebook",
+            "certificate_hash": "ac5d6d89a84158b62fd945702ca8191144224820"
+          }
+        },
+        {
+          "client_id": "103984643955-kosgf6526ajulsp803b4a41v2shuumrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB74qHvdZTnzzxY3NR6n4yCvU-SVm5w4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103984643955-kosgf6526ajulsp803b4a41v2shuumrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
